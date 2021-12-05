@@ -17,7 +17,23 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
-## PROGRAM:
+
+### Program
+
+```
+
+#program to swap two values.
+#Developed by: Dhanashree M
+#Register number: 21005794
+n1 = int(input())
+n2 = int(input())
+n1,n2 = n2,n1
+print("swapped values are:",n1,n2)
+
+```
+## output:
+
+![GitHub Logo](./image.png)
 
 
 
